@@ -42,13 +42,13 @@ Hazel sank down onto her stool, clutching her lute. The beautiful instrument fel
 
 "Has anyone else forgotten? All the songs in the village—they're gone!"
 
-The room erupted in worried chatter. Some animals headed for the door, wanting to return home and check on their own things. Others stayed, hoping someone would have an answer. Hazel barely heard any of it. She stared down at her lute, feeling emptier than she had ever felt before. Songs had always been a part of her, like breathing. How could they just disappear? Just then a black and brown dog in shining armor gently made his way through the crowd.
+The room erupted in worried chatter. Some animals headed for the door, wanting to return home and check on their own affairs. Others stayed, hoping someone would have an answer. Hazel barely heard any of it. She stared down at her lute, feeling emptier than she had ever felt before. Songs had always been a part of her, like breathing. How could they just disappear? Just then a black and brown dog in shining armor gently made his way through the crowd.
 
 Beside him walked an orange cat in a wizard's cloak and pointed hat, carrying a tall wooden staff with a perfectly round crystal set in the top of its gnarled wood.
 
 "Everyone, please stay calm," barked the dog in a strong voice.
 
-"I am Sir Alder of the Queen's Guard, and this is my most trusted friend Huckleberry."
+"I am Sir Alder of the Queen's Guard, and this is my most trusted friend, Huckleberry."
 
 The cat tipped his wizard's cap as a quiet introduction. His friend made enough fanfare for the both of them.
 
@@ -62,7 +62,7 @@ Huckleberry stepped forward, his robe billowing.
 
 "Actually," said the beaver mother slowly, stepping out the front door, "now that you mention it… the wind hasn't made a sound. Not even a whisper through the trees."
 
-The tavern fell silent as everyone thought about this.
+The tavern fell silent as everyone in their own time observed this.
 
 "She's right," someone whispered. "The wind always sings in autumn. But now… nothing."
 

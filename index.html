@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The Silence of Songs — live preview</title>
+  <link rel="stylesheet" href="/assets/book.css" />
+  <link rel="stylesheet" href="/assets/viewer.css" />
+</head>
+<body>
+  <header class="toolbar">
+    <h1>The Silence of Songs</h1>
+    <span class="live-dot" id="liveDot" title="Live reload"></span>
+    <label>
+      <input type="checkbox" id="liveToggle" checked />
+      Live
+    </label>
+    <button type="button" id="reloadAll">Reload all</button>
+    <span class="spacer"></span>
+    <span id="status">Loading…</span>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar" aria-label="Table of contents">
+      <h2>Chapters</h2>
+      <ol id="toc"></ol>
+    </aside>
+
+    <main class="main">
+      <div class="book-column">
+        <img class="book-cover" id="cover" src="/cover.png" alt="Book cover" hidden />
+        <div class="book-body" id="bookBody">
+          <p class="loading">Loading chapters…</p>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script>
+(function () {
+  const POLL_MS = 2000;
+  const bookBody = document.getElementById("bookBody");
+  const toc = document.getElementById("toc");
+  const statusEl = document.getElementById("status");
+  const liveToggle = document.getElementById("liveToggle");
+  const liveDot = document.getElementById("liveDot");
+  const coverImg = document.getElementById("cover");
+  const reloadBtn = document.getElementById("reloadAll");
+
+  let manifest = [];
+  let pollTimer = null;
+  let visibleSlug = null;
+  const observer = new IntersectionObserver(
+    (entries) => {
+      const visible = entries
+        .filter((e) => e.isIntersecting)
+        .sort((a, b) => b.intersectionRatio - a.intersectionRatio);
+      if (visible.length) {
+        visibleSlug = visible[0].target.id;
+        updateTocActive();
+      }
+    },
+    { root: null, rootMargin: "-20% 0px -60% 0px", threshold: [0, 0.1, 0.5] }
+  );
+
+  function setStatus(msg) {
+    statusEl.textContent = msg;
+  }
+
+  function updateLiveUi() {
+    const on = liveToggle.checked;
+    liveDot.classList.toggle("paused", !on);
+    if (on && !pollTimer) {
+      pollTimer = setInterval(pollChanges, POLL_MS);
+    } else if (!on && pollTimer) {
+      clearInterval(pollTimer);
+      pollTimer = null;
+    }
+  }
+
+  function updateTocActive() {
+    toc.querySelectorAll("a").forEach((a) => {
+      a.classList.toggle("active", a.getAttribute("href") === "#" + visibleSlug);
+    });
+  }
+
+  async function fetchJson(url) {
+    const res = await fetch(url, { cache: "no-store" });
+    if (!res.ok) throw new Error(res.status + " " + url);
+    return res.json();
+  }
+
+  async function loadChapter(meta) {
+    const data = await fetchJson("/api/chapter/" + encodeURIComponent(meta.file));
+    return { ...meta, ...data };
+  }
+
+  function articleFor(ch) {
+    const art = document.createElement("article");
+    art.className = "chapter";
+    art.id = ch.slug;
+    art.dataset.file = ch.file;
+    art.dataset.mtime = String(ch.mtime);
+    art.innerHTML = ch.html;
+    return art;
+  }
+
+  function buildToc(chapters) {
+    toc.replaceChildren();
+    for (const ch of chapters) {
+      const li = document.createElement("li");
+      const a = document.createElement("a");
+      a.href = "#" + ch.slug;
+      a.textContent = ch.title;
+      a.addEventListener("click", () => {
+        visibleSlug = ch.slug;
+        updateTocActive();
+      });
+      li.appendChild(a);
+      toc.appendChild(li);
+    }
+  }
+
+  function observeChapters() {
+    observer.disconnect();
+    bookBody.querySelectorAll(".chapter").forEach((el) => observer.observe(el));
+  }
+
+  async function initialLoad() {
+    const data = await fetchJson("/api/manifest");
+    manifest = data.chapters;
+    buildToc(manifest);
+
+    const chapters = await Promise.all(manifest.map(loadChapter));
+    bookBody.replaceChildren();
+    for (const ch of chapters) {
+      bookBody.appendChild(articleFor(ch));
+    }
+    observeChapters();
+    setStatus(manifest.length + " chapters loaded");
+  }
+
+  async function patchChapter(meta) {
+    const slug = meta.slug;
+    const wasVisible = visibleSlug === slug;
+    const scrollY = window.scrollY;
+    const ch = await loadChapter(meta);
+    let art = document.getElementById(slug);
+    if (!art) {
+      art = articleFor(ch);
+      bookBody.appendChild(art);
+    } else {
+      art.dataset.mtime = String(ch.mtime);
+      art.innerHTML = ch.html;
+    }
+    observer.observe(art);
+    if (wasVisible) {
+      art.scrollIntoView({ block: "start" });
+    } else {
+      window.scrollTo(0, scrollY);
+    }
+    const t = new Date(ch.mtime * 1000);
+    setStatus("Updated " + ch.file + " at " + t.toLocaleTimeString());
+  }
+
+  async function pollChanges() {
+    if (!liveToggle.checked) return;
+    try {
+      const data = await fetchJson("/api/manifest");
+      for (const meta of data.chapters) {
+        const art = document.getElementById(meta.slug);
+        const prev = art ? art.dataset.mtime : null;
+        if (prev === null || Number(prev) !== meta.mtime) {
+          await patchChapter(meta);
+        }
+      }
+      manifest = data.chapters;
+    } catch (err) {
+      setStatus("Poll failed: " + err.message);
+    }
+  }
+
+  coverImg.addEventListener("error", () => {
+    coverImg.hidden = true;
+  });
+  coverImg.addEventListener("load", () => {
+    coverImg.hidden = false;
+  });
+
+  liveToggle.addEventListener("change", updateLiveUi);
+  reloadBtn.addEventListener("click", async () => {
+    setStatus("Reloading…");
+    try {
+      await initialLoad();
+    } catch (err) {
+      bookBody.innerHTML = '<p class="error">' + err.message + "</p>";
+      setStatus("Reload failed");
+    }
+  });
+
+  initialLoad()
+    .then(() => updateLiveUi())
+    .catch((err) => {
+      bookBody.innerHTML =
+        '<p class="error">Could not load chapters. Run <code>python3 scripts/serve-live.py</code> and open this page via http://127.0.0.1:8765/ — not file://.<br><br>' +
+        err.message +
+        "</p>";
+      setStatus("Load failed");
+    });
+})();
+  </script>
+</body>
+</html>

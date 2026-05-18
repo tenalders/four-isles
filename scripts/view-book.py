@@ -20,28 +20,11 @@ import sys
 import webbrowser
 from pathlib import Path
 
+_SCRIPTS = Path(__file__).resolve().parent
+if str(_SCRIPTS) not in sys.path:
+    sys.path.insert(0, str(_SCRIPTS))
 
-def _repo_root() -> Path:
-    return Path(__file__).resolve().parent.parent
-
-
-def _chapter_files(chapters_dir: Path) -> list[Path]:
-    files = sorted(chapters_dir.glob("[0-9][0-9]-*.md"))
-    return [p for p in files if p.is_file()]
-
-
-def _load_markdown_module():
-    try:
-        import markdown as md  # type: ignore
-    except ImportError:
-        print(
-            "Missing dependency: markdown\n"
-            "Install with:\n"
-            "  python3 -m pip install -r scripts/requirements-view-book.txt",
-            file=sys.stderr,
-        )
-        sys.exit(1)
-    return md
+from book_render import chapter_files, render_markdown, repo_root  # noqa: E402
 
 
 def _html_shell(
@@ -308,7 +291,7 @@ def _html_shell(
 
 
 def main() -> None:
-    root = _repo_root()
+    root = repo_root()
     ap = argparse.ArgumentParser(description="Build paperback-scale HTML preview of the book.")
     ap.add_argument(
         "--chapters-dir",
@@ -340,9 +323,6 @@ def main() -> None:
         print(f"Not a directory: {chapters_dir}", file=sys.stderr)
         sys.exit(1)
 
-    md = _load_markdown_module()
-    md_extensions = ["extra", "smarty"]
-
     pieces: list[str] = []
     if not args.no_cover:
         cover = args.cover.resolve()
@@ -359,14 +339,14 @@ def main() -> None:
         else:
             print(f"Cover not found (skip): {cover}", file=sys.stderr)
 
-    chapter_paths = _chapter_files(chapters_dir)
+    chapter_paths = chapter_files(chapters_dir)
     if not chapter_paths:
         print(f"No chapter files matching NN-*.md in {chapters_dir}", file=sys.stderr)
         sys.exit(1)
 
     for path in chapter_paths:
         raw = path.read_text(encoding="utf-8")
-        html = md.markdown(raw, extensions=md_extensions)
+        html = render_markdown(raw)
         pieces.append(
             f'<section class="chapter-wrap" data-file="{path.name}">'
             f'<div class="chapter-flow">{html}</div></section>'

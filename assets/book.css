@@ -1,0 +1,28 @@
+@namespace epub "http://www.idpf.org/2007/ops";
+body,
+.book-body {
+  font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif;
+  line-height: 1.38;
+  margin: 0.5em 0.6em;
+  text-align: justify;
+  hyphens: auto;
+  -epub-hyphens: auto;
+}
+h1 {
+  text-align: left;
+  font-size: 1.1em;
+  font-weight: 600;
+  margin: 0 0 0.4em;
+}
+h1 + p {
+  font-style: italic;
+  opacity: 0.95;
+  margin-top: 0.1em;
+}
+p { margin: 0 0 0.55em; }
+hr {
+  border: none;
+  border-top: 1px solid #999;
+  margin: 0.7em 0;
+}
+em { font-style: italic; }

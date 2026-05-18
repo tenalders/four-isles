@@ -18,4 +18,6 @@ Fear shot through her like ice. The shadow descended. She felt it then—a magic
 
 Along her back. Into her silver mane. It wasn't the cold of winter or the cold of deep water. It was the cold of stone. And then the kelpie, body and mind, was still. The shadow moved on, disappearing into the darkening sky. The waves around her feet remained frozen mid-crest. The tide pools lay silent. Between the Crying Rocks, where moments before a kelpie had sung to the setting sun, there now stood a statue.
 
-Perfect. Beautiful. Caught mid-leap with her mouth open in song. And completely, utterly still. The autumn wind tried to blow, but it had forgotten how. The songs were gone.
+Perfect. Beautiful. Caught mid-leap with her mouth open in song. And completely, utterly still. The autumn wind tried to blow, but it had forgotten how. 
+
+The songs were gone.

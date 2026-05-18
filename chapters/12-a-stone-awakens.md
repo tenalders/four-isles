@@ -20,53 +20,37 @@ He looked around his beautiful hall, at the toppled pillars on the north side.
 
 "What happened?" Alder asked gently. Grimrok moved to one of the standing pillars and leaned against it, his stone form blending with the carved rock.
 
-"I thought I could reason with him. We knew each other once, long ago. But when he came…" The troll shook his great head.
+"We were friends, long ago," the troll said. "Before the isles were four. When he came here, I thought I could reason with him. I was wrong."
 
-"His eyes were wild. Not with anger—with grief. He kept saying the songs were dying. That the music was fading from the world."
+"What did he say?" Clover asked carefully.
 
-"But why would he think that?" Clover asked. "He said he lost something. Or someone. I didn't understand it all—he wasn't making much sense."
+Grimrok's glowing eyes grew distant.
 
-Grimrok's glowing eyes were sad.
+"Nothing I will repeat. Words from a heart too hurt to mean what they said. But hear this." He lowered his great head until it was almost level with theirs. "The dragon guards what he fears to lose. Remember that, when you stand before him."
 
-"He kept saying something about a song. A particular song he's searching for. He said when it was gone, the world's music began to die too."
+The hall was very quiet.
 
-Hazel felt something tighten in her chest, though she couldn't say why.
+"I am old," Grimrok went on. "Older than the mining songs I sing. And in all my long living I have only ever sung what my mothers taught me—the old patterns, the building chants. I never thought to make a new one."
 
-"He spoke like someone was the last one who could make new songs," Grimrok continued. "Like the secret of creation had died. That's why he's been turning us to stone—the kelpies who hold the songs of the sea, the griffins who hold the songs of the sky, me with my songs of the deep earth. He thinks if he keeps us frozen, the songs will be safe. Preserved forever."
+He looked at Hazel.
 
-"But that's not how songs work," Hazel said quietly.
+"Today you sang the old made new. I had forgotten that was possible."
 
-"They're not things you keep locked away. They're meant to be shared. Passed on. And new ones…" She clutched her lute.
-
-"New ones can always be made."
-
-"Can they?" Grimrok asked, and there was genuine curiosity in his voice.
-
-"I have always sung the songs my ancestors taught me. The old mining songs, the building songs. I never thought to make new ones."
-
-"But you can," Hazel said. "Anyone can. My grand—" She stopped herself.
-
-"I was taught that music doesn't die. It changes and grows. As long as someone is willing to create, there will always be new songs."
+"It is possible," Hazel said quietly. "Anyone can. My grand—" She stopped herself. "I was taught that music doesn't die. It changes. As long as someone is willing to create, there will always be new songs."
 
 The troll studied her for a long moment.
 
-"The dragon does not know this," he said finally.
+"The dragon does not know this," he said finally. "Or perhaps he knew it once and has forgotten."
 
-"Or perhaps he knew it once and has forgotten. Grief can make us forget many things."
+"We have to help him remember," Alder said.
 
-"We have to help him remember," Alder said. "Yes," Huckleberry agreed. "But we must be careful. A grieving dragon is a dangerous thing."
+"Yes," Huckleberry agreed. "But we must be careful. A dragon who has lost his way is a dangerous thing."
 
-"He lives on the Lost Isle," Grimrok said. "In the heart of the old volcano. That's where he's keeping all the others—all the mythical creatures he's trying to save."
-
-The troll's voice was heavy.
-
-"Phoenix and unicorns. More kelpies and griffins. Even a few of my own kin. All turned to stone, all silent."
-
-"How many?" Clover whispered. "Dozens. Perhaps more by now."
+"The Lost Isle," Grimrok said. His voice was heavy. "In the heart of the old volcano. That was his home when we were young—before the isles were four. I have not been there since." He looked at the toppled pillars. "I do not know what you will find when you stand before him. Only that you must go."
 
 Grimrok looked at Hazel.
 
-"If you truly believe new songs can be made, you must show him. Words alone will not be enough. He must hear it. Feel it. Understand it in his bones, the way I just understood it when you sang."
+"If you truly believe new songs can be made, you must show him—not tell him. He must hear it. Feel it. Understand it in his bones, the way I just understood it when you sang."
 
 Hazel swallowed hard. But she straightened her shoulders.
 
@@ -82,35 +66,27 @@ He straightened up, and his movement made the chamber rumble slightly.
 
 They fell silent. From somewhere deep in the earth, far below them, came a sound—faint but growing stronger. Hammers ringing on stone. Voices raised in working songs. The deep songs, the mining songs, the songs of the earth that Hazel had sung. They were returning to the world.
 
-"Somewhere," Grimrok said softly, "a dwarf is humming while he works. A miner is singing to pass the hours underground. The songs of stone are alive again."
+"Somewhere," Grimrok said softly, "a mole is humming while he digs. Miners singing to pass the hours underground. The songs of stone are alive again."
 
 He looked at Hazel.
 
 "You did that. You made the old patterns new."
 
-Tears pricked Hazel's eyes. Three songs now—the jig of the water, the air of the sky, and the reel of the earth. Three kinds of music returned to the world. But so many more were still silent, waiting in stone on the Lost Isle.
+Tears pricked Hazel's eyes. Three songs now—the jig of the water, the air of the sky, and the reel of the earth. Three kinds of music returned to the world. But so many more were still silent somewhere they had not yet seen.
 
 "Thank you for waking me," Grimrok said. "When this is done, come visit my hall again. I'll have it properly fixed up by then, and we'll have a proper feast. I make an excellent stone soup."
 
 His eyes twinkled with gentle humor.
 
-"We will," Hazel promised. "One more thing," the troll said as they turned to leave.
+"We will," Hazel promised.
 
-"The dragon… when you meet him, remember he is not evil. He is lonely. He is afraid. And he loved someone very much."
+"One more thing," the troll said as they turned to leave. "When you meet him—remember. He is not your enemy in the way you think." Grimrok's voice softened. "Be ready for him to be smaller than his fire. Be ready to be surprised."
 
-Grimrok's voice softened.
-
-"Sometimes love makes us do desperate things, even when we know better."
-
-The words stayed with Hazel as they made their way back through the tunnels, Huckleberry's staff lighting their path. The dragon loved someone. Lost someone. Was searching for a particular song. It made her think of her own grandmother, and all the songs she'd taught Hazel. But she pushed the thought aside. There was work to be done.
+The words stayed with Hazel as they made their way back through the tunnels, Huckleberry's staff lighting their path. *The dragon guards what he fears to lose.* She did not know what it meant. But the thought of it brought her grandmother to mind—Holly by the hearth, teaching her chord after chord; Holly's voice on quiet evenings; the warm ache of loving something and letting it go. She pushed the thought aside. There was work to be done.
 
 "Wait," Grimrok said as they started back toward the tunnels.
 
-"You're going to the Lost Isle, yes?"
-
-"We have to," Hazel said. "To help the dragon understand."
-
-"Then you won't reach it by sea," Grimrok said. "The dragon has made sure of that. Any ship that approaches is turned back by storms. He doesn't want visitors."
+"You know where you must go—but you will not reach it by sea. The dragon has made sure of that. Any ship that approaches is turned back by storms. He does not want visitors."
 
 The troll moved to the far wall of his hall, to a section covered in more carved runes.
 
@@ -206,7 +182,7 @@ Huckleberry held his staff high. In its blue light, they could see the passage a
 
 "Let's try not to find out."
 
-They began to walk, their footsteps echoing strangely in the confined space. Behind them, the sound of Grimrok's hall faded away. Ahead lay only mystery—miles of ancient tunnels, underground rivers, and things that lived in the deep places. And somewhere at the end of it all, in the heart of a volcano, a lonely dragon was waiting. Hazel touched her lute, feeling its familiar shape. She thought of her grandmother Holly, of all the songs she'd taught her, of grief strong enough to silence the world.
+They began to walk, their footsteps echoing strangely in the confined space. Behind them, the sound of Grimrok's hall faded away. Ahead lay only mystery—miles of ancient tunnels, underground rivers, and things that lived in the deep places. And somewhere at the end of it all, in the heart of a volcano, something vast was waiting. Hazel touched her lute, feeling its familiar shape. She thought of her grandmother Holly, of all the songs she'd taught her, and how far they still had to go.
 
 "Come on," she said, surprised by the steadiness in her own voice.
 

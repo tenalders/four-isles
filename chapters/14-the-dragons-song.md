@@ -10,7 +10,7 @@ Hazel's breath caught. Kelpies. Griffins. A unicorn with its horn raised toward 
 
 "That's the kelpie we freed," Clover breathed. "And—look—more griffins than I can count."
 
-Huckleberry's staff light seemed very small in all that gray stone. "Grimrok wasn't exaggerating," he said. "He was *under*exaggerating."
+Huckleberry's staff light seemed very small in all that gray stone. No one spoke for a long moment.
 
 A sound answered them—not words, but a groan of stone shifting, of something vast turning in the dark above.
 
@@ -54,7 +54,7 @@ The dragon roared. The ropes frayed. The shield shuddered.
 
 Hazel's eyes moved across the rows of stone. Kelpie. Griffin. Unicorn. Each one caught mid-song, mid-flight, mid-hope. Grimrok had said the dragon was not evil. The kelpie had said it. Even now, in fury, the dragon's voice ached with loss—not cruelty.
 
-*A particular song.* Grimrok's words. The compass in her pack. Holly on a cliff, singing new music into the air. Her grandmother had not only *kept* songs. She had *made* them.
+*A particular song.* The thought struck her whole, like a chord newly fingered. The compass in her pack. Holly on a cliff, singing new music into the air. Her grandmother had not only *kept* songs. She had *made* them.
 
 Hazel tore open her pack with shaking paws and lifted the compass.
 

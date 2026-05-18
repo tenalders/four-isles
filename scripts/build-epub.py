@@ -23,71 +23,21 @@ from pathlib import Path
 
 from ebooklib import epub
 
+_SCRIPTS = Path(__file__).resolve().parent
+if str(_SCRIPTS) not in sys.path:
+    sys.path.insert(0, str(_SCRIPTS))
 
-def _repo_root() -> Path:
-    return Path(__file__).resolve().parent.parent
-
-
-def _chapter_files(chapters_dir: Path) -> list[Path]:
-    files = sorted(chapters_dir.glob("[0-9][0-9]-*.md"))
-    return [p for p in files if p.is_file()]
-
-
-def _load_markdown_module():
-    try:
-        import markdown as md  # type: ignore
-    except ImportError:
-        print(
-            "Missing dependency: markdown\n"
-            "Install with:\n"
-            "  python3 -m pip install -r scripts/requirements-epub.txt",
-            file=sys.stderr,
-        )
-        sys.exit(1)
-    return md
-
-
-def _chapter_title_from_md(raw: str, fallback: str) -> str:
-    for line in raw.splitlines():
-        s = line.strip()
-        if s.startswith("#"):
-            return s.lstrip("#").strip()
-    return fallback
-
-
-def _chapter_css() -> str:
-    return """@namespace epub "http://www.idpf.org/2007/ops";
-body {
-  font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif;
-  line-height: 1.38;
-  margin: 0.5em 0.6em;
-  text-align: justify;
-  hyphens: auto;
-  -epub-hyphens: auto;
-}
-h1 {
-  text-align: left;
-  font-size: 1.1em;
-  font-weight: 600;
-  margin: 0 0 0.4em;
-}
-h1 + p {
-  font-style: italic;
-  opacity: 0.95;
-  margin-top: 0.1em;
-}
-p { margin: 0 0 0.55em; }
-hr {
-  border: none;
-  border-top: 1px solid #999;
-  margin: 0.7em 0;
-}
-em { font-style: italic; }
-"""
+from book_render import (  # noqa: E402
+    chapter_files,
+    chapter_title_from_md,
+    read_chapter_css,
+    render_markdown,
+    repo_root,
+)
 
 
 def main() -> None:
-    root = _repo_root()
+    root = repo_root()
     ap = argparse.ArgumentParser(description="Build an EPUB from Markdown chapters.")
     ap.add_argument("--title", default="The Silence of Songs", help="Book title (DC:title)")
     ap.add_argument("--author", default="Philip Wahl", help="Author (DC:creator)")
@@ -118,13 +68,10 @@ def main() -> None:
         print(f"Not a directory: {chapters_dir}", file=sys.stderr)
         sys.exit(1)
 
-    paths = _chapter_files(chapters_dir)
+    paths = chapter_files(chapters_dir)
     if not paths:
         print(f"No chapter files matching NN-*.md in {chapters_dir}", file=sys.stderr)
         sys.exit(1)
-
-    md = _load_markdown_module()
-    md_extensions = ["extra", "smarty"]
 
     book = epub.EpubBook()
     identifier = args.uuid.strip() or f"urn:uuid:{uuid.uuid4()}"
@@ -137,12 +84,11 @@ def main() -> None:
     nav = epub.EpubNav()
     book.add_item(nav)
 
-    # Same EPUB directory as chapters so stylesheet href is a simple relative name.
     css_item = epub.EpubItem(
         uid="book_css",
         file_name="text/book.css",
         media_type="text/css",
-        content=_chapter_css().encode("utf-8"),
+        content=read_chapter_css(root).encode("utf-8"),
     )
     book.add_item(css_item)
 
@@ -158,8 +104,8 @@ def main() -> None:
     chapter_docs: list[epub.EpubHtml] = []
     for i, path in enumerate(paths, start=1):
         raw = path.read_text(encoding="utf-8")
-        fragment = md.markdown(raw, extensions=md_extensions)
-        title = _chapter_title_from_md(raw, path.stem)
+        fragment = render_markdown(raw)
+        title = chapter_title_from_md(raw, path.stem)
         fname = f"text/chapter-{i:02d}.xhtml"
         doc = epub.EpubHtml(
             title=title,
@@ -182,12 +128,10 @@ def main() -> None:
 
     out = args.out.resolve()
     out.parent.mkdir(parents=True, exist_ok=True)
-    # Disable auto page-list (parses every document); cover body can be empty and breaks lxml.
     epub.write_epub(str(out), book, {"epub3_pages": False})
 
     print(f"Wrote {out}")
 
-    # Smoke check: valid ZIP and required entries
     with zipfile.ZipFile(out, "r") as zf:
         names = zf.namelist()
         if "mimetype" not in names:
