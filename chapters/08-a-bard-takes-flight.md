@@ -2,33 +2,25 @@
 
 They followed the path of destruction deeper into the forest. The broken trees led them upward, climbing toward higher ground. Hazel's legs ached, but she pushed on. They were close now. She could feel it. The devastation ended at the base of a cliff—a sheer rock face that rose up through the canopy like a stone wall. And there, at the cliff's base, surrounded by fallen trees and torn earth, they found it.
 
-The griffin. It was enormous. Even frozen in stone, it radiated power. The creature was caught mid-leap, its eagle's head thrown back, beak open in what must have been a defiant cry. Or song, Hazel thought. Its lion's body was coiled with muscle, powerful hind legs pushing off the ground, wings spread wide as if trying to take flight one last time. But like the kelpie, it had been turned to gray stone.
+The griffin. 
+
+It was enormous. Even frozen in stone, it radiated power. The creature was caught mid-leap, its eagle's head thrown back, beak open in what must have been a defiant cry. *Or song*, Hazel thought. Its lion's body was coiled with muscle, powerful hind legs pushing off the ground, wings spread wide as if trying to take flight one last time. But like the kelpie, it had been turned to gray stone.
 
 Perfectly preserved. Perfectly still. And on the cliff face behind it, Hazel could already see them— carvings. Runes etched into the rock, placed there by desperate magic in the creature's final moments.
 
 "We found it," Alder whispered. Hazel stepped forward, her paws already reaching for her lute.
 
-"Wait," Huckleberry said, his staff already glowing as he examined the cliff face.
+"Wait," Huckleberry said, his staff already glowing as he examined the cliff face. "These runes… they're different from the kelpie's."
 
-"These runes… they're different from the kelpie's."
-
-Clover was already bounding up the rocky slope, her keen eyes scanning.
-
-"There are more of them. Look—scattered all across the cliff face. Some up high, some down low. They're everywhere!"
+Clover was already bounding up the rocky slope, her keen eyes scanning. "There are more of them. Look—scattered all across the cliff face. Some up high, some down low. They're everywhere!"
 
 Hazel's heart sank as she looked up. The runes were spread across thirty feet of vertical stone, some barely within reach, others so high they'd need to climb to see them clearly—if any of them could even climb that high.
 
-"The magical runes are incomplete here," Huckleberry said, his voice tense.
+"The magical runes are incomplete here," Huckleberry said, his voice tense. "Look—this one's only half carved. And this one trails off like the griffin ran out of time."
 
-"Look—this one's only half carved. And this one trails off like the griffin ran out of time."
+"She was fighting it," Alder said quietly, studying the frozen creature. "Fighting the petrification. Trying to leave us the message even as she turned to stone."
 
-"She was fighting it," Alder said quietly, studying the frozen creature.
-
-"Fighting the petrification. Trying to leave us the message even as she turned to stone."
-
-"Then we'll figure it out," Hazel said, trying to sound confident.
-
-"Just like before. We'll work together."
+"Then we'll figure it out," Hazel said, trying to sound confident. "Just like before. We'll work together."
 
 But as she moved closer to examine the melody staves, her confidence wavered. These notes were different—floating, wandering, with no clear rhythm or beat she could recognize. They drifted across the stone like leaves on the wind, connected in ways she didn't quite understand.
 
@@ -36,19 +28,11 @@ But as she moved closer to examine the melody staves, her confidence wavered. Th
 
 "I'll try."
 
-The rabbit was already looking for a path up the cliff face, her keen eyes scanning for handholds. For the next half hour, they worked systematically as they'd done before. Clover and Alder identified and cleared the lower runes—both magical and melodic. Huckleberry sketched what he found, his whiskers twitching as he tried to make sense of the puzzle. But Hazel's heart sank even deeper as she studied the melody staves they'd uncovered.
+The rabbit was already looking for a path up the cliff face, her keen eyes scanning for handholds. For the next half hour, they worked systematically as they'd done before. Clover and Alder identified and cleared the lower carvings, magic runes and melody staves alike. Huckleberry sketched what he found, his whiskers twitching as he tried to make sense of the puzzle. But Hazel's heart sank even deeper as she studied the melody staves they'd uncovered.
 
-They were only fragments—a few notes here, a measure there, never enough to understand the complete song. What bits of the tune she could piece together were open, full of negative space.
+They were only fragments—a few notes here, a measure there, never enough to understand the complete song. What bits of the tune she could piece together were open, full of negative space. "There must be more," she said, looking up. "The melody doesn't make sense with just these notes." High above them, barely visible in the shadowed stone, she could see more carvings. Staves, scattered across the cliff face thirty feet up.
 
-"There must be more," she said, looking up.
-
-"The melody doesn't make sense with just these notes."
-
-High above them, barely visible in the shadowed stone, she could see more carvings. Melody staves, scattered across the cliff face thirty feet up.
-
-"I see them," Clover said, already searching for a way to climb.
-
-"I can get there."
+"I see them," Clover said, already searching for a way to climb. "I can get there."
 
 She found a narrow crack in the rock and started up, her small form finding holds that seemed impossible. Ten feet. Fifteen feet.
 
@@ -56,93 +40,59 @@ She found a narrow crack in the rock and started up, her small form finding hold
 
 "I've climbed worse," Clover replied, reaching for the next handhold. Then a deep groan, like stone grinding against stone. The rock beneath Clover's paw crumbled.
 
-"Clover!" Alder shouted. The rabbit scrambled for purchase, but the entire section was giving way. She fell—not far, perhaps eight feet—but she landed hard on the rocky ground with a cry of pain. They rushed to her side. Clover was sitting up, her face twisted in pain, cradling her left arm against her chest.
+"Clover!" Alder shouted. 
 
-"Don't move," Huckleberry said, kneeling beside her. He examined her arm gently.
+The rabbit scrambled for purchase, but the entire section was giving way. She fell, landing hard on the rocky ground with a cry of pain. They rushed to her side. Clover was lying on her side, her face twisted in pain, cradling her left arm against her chest.
 
-"It's not broken, but it's badly sprained. Maybe worse."
+"Don't move," Huckleberry said, kneeling beside her. He examined her arm gently. "It's badly sprained. Maybe worse."
 
-"I'm fine," Clover said through gritted teeth, trying to stand. She winced and sat back down.
+"I'm fine," Clover said through gritted teeth, trying to stand. She winced and sat back down. "Just give me a moment."
 
-"Just give me a moment."
+"You're not fine," Alder said firmly. "That's a serious injury."
 
-"You're not fine," Alder said firmly.
+Clover looked up at the high runes, frustration clear on her face. "But we need those melody staves. I can try again—" 
 
-"That's a serious injury."
-
-Clover looked up at the high runes, frustration clear on her face.
-
-"But we need those melody staves. I can try again—" "Absolutely not," Huckleberry said. "That rock is unstable. You could have been killed."
+"Absolutely not," Huckleberry said. "That rock is unstable. You could have been killed."
 
 "But without the melody staves, we can't free the griffin," Hazel said, her voice worried.
 
-"Wait."
+"Wait." Huckleberry was studying his transcribed magical runes intently, helping Clover sit more comfortably with his free paw. "These runes… they're not instructions for us to free the griffin. They're instructions for a spell."
 
-Huckleberry was studying his transcribed magical runes intently, helping Clover sit more comfortably with his free paw.
+"What kind of spell?" Alder asked. 
 
-"These runes… they're not instructions for us to free the griffin. They're instructions for a spell."
+"A levitation enchantment." Huckleberry looked up at Hazel. "The griffin left magic that would let a gifted bard fly up to read them."
 
-"What kind of spell?" Alder asked. "A levitation enchantment."
-
-Huckleberry looked up at Hazel.
-
-"The griffin left magic that would let a gifted bard fly up to read them."
-
-Hazel's stomach flipped.
-
-"Fly? Me?"
+Hazel's stomach flipped. "Fly? Me?"
 
 "It's the only way to reach the melody staves safely," Huckleberry said. "The magic will lift you up, you read the notes, then it brings you back down."
 
-Hazel looked at Clover, who was still holding her injured arm, then up at the high carvings, then down at her paws.
+Hazel looked at Clover, who was still holding her injured arm, then up at the high carvings, then down at her paws. "I've never… I don't know if I can…"
 
-"I've never… I don't know if I can…" "A flying raccoon will be a first for me as well! But the magic will do the work," Huckleberry assured her.
+ "A flying raccoon will be a first for me as well! But the magic will do the work," Huckleberry assured her. "You just have to trust it."
 
-"You just have to trust it."
-
-"We'll be right here," Alder said firmly.
-
-"And Clover's proven that climbing is too dangerous. This is the way."
-
-Clover managed a pained smile.
+"We'll be right here," Alder said firmly. "And Clover's proven that climbing is too dangerous. This is the way." Clover managed a pained smile.
 
 "Go on, Hazel. I'll be fine down here. Just don't look down if you're scared of heights."
 
-Hazel took a deep breath.
+Hazel took a deep breath. "All right. What do I do?"
 
-"All right. What do I do?"
-
-"Just stand here."
-
-Huckleberry raised his staff, the crystal blazing with blue light.
-
-"The magical runes contain the power. I just have to activate it."
+"Just stand, right about here." Huckleberry raised his staff, the crystal blazing with blue light. "The magical runes contain the power. I just have to activate it."
 
 He began to chant in the old tongue. The magical runes on the cliff face started to glow, one by one, pulsing with blue light. The light spread, connecting rune to rune, creating a web of magic across the stone. Hazel felt a tingling in her paws. Then a lightness, as if she suddenly weighed nothing at all.
 
 "Don't fight it," Huckleberry said. "Let it lift you."
 
-Her paws left the ground. Hazel gasped, clutching her lute. The magic held her gently, steadily. She rose upward—slowly at first, then more confidently—floating past Alder's amazed face, past the reachable carvings, up toward the high melody staves.
+Her paws left the ground. Hazel gasped, clutching her lute. The magic held her gently, steadily. She rose upward—slowly at first, then more confidently—floating past Alder's amazed face, past the reachable carvings, up toward the high staves.
 
 "I'm flying!" she called down, half terrified, half delighted. She drifted to the first set of high carvings. The melody staves were clear up here, easier to read. She studied them carefully, committing each note to memory. Then she floated to the next set, and the next.
 
-"These notes—they're like wind!" she called down.
-
-"They float and drift. There's no steady rhythm."
+"These notes—they're like wind!" she called down. "They float and drift. There's no steady rhythm."
 
 "Can you read them all?" Huckleberry shouted up.
 
-"Yes! Just a few more!"
+"Yes! Just a few more!" She moved to the highest carving. These notes were closer together—more urgent, more desperate. The griffin's final message in music, carved as the petrification took hold. "Got them!" Hazel said. "I've read them all!"
 
-She moved to the highest carving. These notes were closer together—more urgent, more desperate. The griffin's final message in music, carved as the petrification took hold.
-
-"Got them!" Hazel said. "I've read them all!"
-
-The magic gently lowered her back to the ground. When her paws touched earth, the lightness faded. She felt solid again, grounded. But her mind was full of the melody she'd read—the complete song, finally understood.
-
-"I know the tune now," she said, moving to sit on a flat rock near Clover and pulling out her lute.
-
-"It's different from the kelpie's song. It floats. It wanders. Gentle and solemn. Like air itself."
+The magic gently lowered her back to the ground. When her paws touched earth, the lightness faded. She felt solid again, grounded. But her mind was full of the melody she'd read—the complete song, finally understood. "I know the tune now," she said, moving to sit on a flat rock near Clover and pulling out her lute. "It's different from the kelpie's song. It floats. It wanders. Gentle and solemn. Like air itself." 
 
 Hazel looked at the frozen griffin. The creature's wings were spread wide, caught in that eternal moment of attempted flight. Its beak was open—singing, or trying to. And now Hazel had the complete melody it had left behind.
 
@@ -152,13 +102,9 @@ Hazel looked at the frozen griffin. The creature's wings were spread wide, caugh
 
 "The kelpie was a creature of water—water has rhythm, tides, waves. But a griffin is a creature of air. Air doesn't follow rules the same way."
 
-"It floats," Hazel said, playing a few of the wandering notes.
+"It floats," Hazel said, playing a few of the wandering notes. "It drifts. There's no beat to hold onto."
 
-"It drifts. There's no beat to hold onto."
-
-"Then don't hold on," Clover suggested, still cradling her arm but listening intently.
-
-"Let it float. Let it be free."
+"Then don't hold on," Clover suggested, still cradling her arm but listening intently. "Let it float. Let it be free."
 
 Hazel closed her eyes and let the melody guide her. The notes wanted to wander, so she let them. They wanted to soar without structure, so she didn't force one. She thought about wind through trees, about birds riding currents, about the freedom of open sky. When she opened her eyes, she knew what to sing.
 
@@ -166,7 +112,12 @@ Hazel closed her eyes and let the melody guide her. The notes wanted to wander, 
 
 "The sooner we free the griffin, the sooner we can get Clover proper help."
 
-Hazel nodded and started playing the melody. It felt strange, letting the notes float and wander without a steady beat. But as she played, she began to understand—this was how air moved. Unpredictable. Unbounded. Free. Then, softly, she began to sing: "High above the world so small, Where the wind is all in all, Spread your wings and touch the sky, This is what it means to fly."
+Hazel nodded and started playing the melody. It felt strange, letting the notes float and wander without a steady beat. But as she played, she began to understand—this was how air moved. Unpredictable. Unbounded. Free. Then, softly, she began to sing: 
+
+*High above the world so small
+Where the wind is all in all
+Spread your wings and touch the sky
+This is what it means to fly*
 
 The words came from the melody itself, from imagining what the griffin must have felt. She sang about freedom and movement, about riding the wind, about the joy of soaring through open sky.
 
