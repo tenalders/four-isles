@@ -168,9 +168,7 @@ Huckleberry lit his staff fully, the blue glow pushing back the shadows. One by 
 
 Then the door sealed shut completely, and they were alone in the passage. The Deep Roads stretched before them, sloping down into darkness. Somewhere in the distance, they could hear the sound of water dripping. The air smelled of minerals and ancient stone.
 
-"Well," Clover said softly.
-
-"This should be interesting."
+"Well," Clover said softly. "This should be interesting."
 
 "Stay close," Alder said. "And watch your step."
 

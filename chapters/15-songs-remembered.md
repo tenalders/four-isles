@@ -78,8 +78,6 @@ Hazel stopped on the path and listened until her eyes stung.
 
 Clover nudged her shoulder. "Come on, bard. They're going to want to hear you play."
 
-* * *
-
 The Acorn Tavern was full—lanterns lit, cider steaming, creatures packed shoulder to shoulder. Old Barlow the badger stood on a table and waved them in. Captain Maren was there, coat still sea-salted. Fionnula had arrived by means no one could explain, broom parked neatly by the door, eyes bright.
 
 "Play," someone called. "Play something we can keep!"

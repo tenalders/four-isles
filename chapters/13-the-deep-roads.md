@@ -36,8 +36,6 @@ Alder walked beside her for a stretch, one paw on his shield. The silver disk ha
 
 "So would I," she admitted. "In theory."
 
-* * *
-
 The Crystal Caves took their breath away.
 
 The tunnel opened into a chamber so vast that Huckleberry's staff light could not find the ceiling. Stalactites hung like frozen chandeliers, and every surface glittered with crystals that pulsed in time with some heartbeat deep in the earth.
@@ -57,8 +55,6 @@ Clover crouched at the chamber's edge, re-threading a loose strand on her bowstr
 "Everything shifts down here," Huckleberry said. "Even stone."
 
 They left the singing stones reluctantly, the last echoes following them like well-wishers into the next tunnel.
-
-* * *
 
 The Underground River was not what Hazel expected.
 
@@ -83,8 +79,6 @@ Hazel grinned despite her fear. She could. She did—stone by stone, not looking
 "Ranger training," Hazel said, breathless.
 
 "And bard training," Clover replied. "You kept humming. I heard you the whole way."
-
-* * *
 
 Past the river, the tunnels forked.
 
@@ -132,7 +126,7 @@ The passage narrowed, then widened into a corridor lined with black glassy rock.
 
 * * *
 
-They rested once on a ledge, sharing Grimrok's hard bread and mushrooms that tasted of minerals and rain.
+They rested on a ledge, sharing Grimrok's hard bread and mushrooms that tasted of minerals and rain.
 
 Clover flexed her healed arm, rotating her shoulder until the joint clicked satisfactorily. "Still good," she said. "Fionnula's magic holds."
 
@@ -147,8 +141,6 @@ Hazel opened the compass. Her grandmother's lullaby rose into the warm dark—sm
 Hazel closed the compass. "I hope so."
 
 "She knew," Alder said. He wasn't looking at her—he was looking at the red glow ahead—but his voice was certain. "You wouldn't be here if she didn't."
-
-* * *
 
 Things lived in the deep places.
 

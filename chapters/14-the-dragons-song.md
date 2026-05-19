@@ -8,7 +8,7 @@ Hazel's breath caught. Kelpies. Griffins. A unicorn with its horn raised toward 
 
 "By the Queen's antlers," Alder whispered.
 
-"That's the kelpie we freed," Clover breathed. "And—look—more griffins than I can count."
+"Not the ones we saved," Clover breathed. "The kelpie at Crying Rocks is gone. The griffin in Greatwood flew east. These are others—dozens of them, still stone."
 
 Huckleberry's staff light seemed very small in all that gray stone. No one spoke for a long moment.
 
@@ -28,8 +28,6 @@ Alder stepped in front of Hazel, shield raised. The rowan tree on the silver dis
 
 "I did not wish to harm," the dragon said. His voice cracked. "But I see I have. Fear makes even dragons clumsy." He drew breath, and the air in the cavern went thin and hot. "Still—I will not let you take what I have kept safe. I wish to keep. To hold. To stop the world from forgetting again."
 
-* * *
-
 The dragon's breath was not fire—not exactly. It was a wave of magic that pressed against the world like a hand trying to hold water in place. Stone cracked. Ash swirled. Hazel's ears popped.
 
 Alder braced. The Old Guard shield flared, and a dome of silver light sprang over the four of them—tight, trembling, but whole. The heat broke against it and slid away.
@@ -48,9 +46,7 @@ The dragon turned, furious, confused—and Huckleberry raised his staff.
 
 The dragon roared. The ropes frayed. The shield shuddered.
 
-"Hazel!" Huckleberry cried. "Whatever you're going to do—do it now!"
-
-* * *
+"Hazel!" Huckleberry cried. "Whatever you're going to do, do it now!"
 
 Hazel's eyes moved across the rows of stone. Kelpie. Griffin. Unicorn. Each one caught mid-song, mid-flight, mid-hope. Grimrok had said the dragon was not evil. The kelpie had said it. Even now, in fury, the dragon's voice ached with loss—not cruelty.
 
@@ -98,8 +94,6 @@ The dragon closed his eyes. A shudder ran through him from horn to tail.
 
 "I know," Hazel said. "I was lonely too, when my songs went away. But they came back when we shared them. Please—let them wake."
 
-* * *
-
 The dragon lifted his paw—slowly, as if afraid his own strength might break what he meant to mend.
 
 He looked at the nearest row of stone creatures—kelpies and river-horses, frozen with their mouths open in songs the sea had lost.
@@ -110,7 +104,7 @@ He looked at the nearest row of stone creatures—kelpies and river-horses, froz
 
 The dragon sang.
 
-It was not Holly's lullaby. It was older, rougher, a dragon's chord of release that rolled through the cavern like warm rain. Only the first row shivered. Color flooded back into gray forms—a kelpie shook stone from her mane, a river-creature stretched its neck and sang one startled, glorious note.
+It was not Holly's lullaby. It was older, rougher, a dragon's chord of release that rolled through the cavern like warm rain. Only the first row shivered. Color flooded back into gray forms—another kelpie shook stone from her mane, a river-creature stretched its neck and sang one startled, glorious note.
 
 The dragon flinched as if the sound had struck him.
 
