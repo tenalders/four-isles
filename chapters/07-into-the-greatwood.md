@@ -1,60 +1,42 @@
 # Into the Greatwood
 
-The morning after they freed the kelpie, the four friends gathered in a corner of Port Town's tavern. The room buzzed with life—sailors singing shanties they'd thought were lost forever, fishermen swapping verses of work songs, the innkeeper happily humming as he poured drinks. The sea had its music back, and the whole town was celebrating. But at their table, the mood was more subdued.
+The morning after they freed the kelpie, the four friends gathered in a corner of Port Town's tavern. The room buzzed with life—sailors singing shanties they'd thought were lost forever, fishermen swapping verses of work songs, the innkeeper happily humming as he poured drinks. The sea had its music back, and the whole town was celebrating. But at their table, the mood had become more subdued.
 
-"So," Alder said, wrapping his paws around a mug of hot tea.
+"So," Alder said, wrapping his paws around a mug of hot tea. "Where do we go next?" 
 
-"Where do we go next?"
+"The kelpie said there were others," Hazel said softly. "Other creatures turned to stone. She could feel it."
 
-"The kelpie said there were others," Hazel said softly.
+"I'm not going to question the word of a kelpie," Huckleberry responded. "But where to start?" He stroked his whiskers thoughtfully. "The Four Isles are vast. We can't simply wander hoping to stumble upon petrified mythical creatures."
 
-"Other creatures turned to stone. She could feel it."
+Clover had been unusually quiet, staring into her cup. Now she looked up, her ears flat against her head. "I saw somethin'. Yesterday. When we freed the kelpie." The others turned to her. "I didn't want to worry anyone—we were all so happy about bringin' the songs back. But when we were on the cliff road, heading back to town…" She paused, choosing her words carefully. "I saw a shadow. Like what everyone keeps describin'. High up, circlin'."
 
-"I'm not going to question the word of a kelpie," Huckleberry responded.
+Alder's paw moved instinctively toward his sword. "The dragon?"
 
-"But where to start?"
+"Maybe. I don't know. But it was big. *Really* big. And it was flyin' east, toward the horizon." Clover met their eyes. "Toward Greatwood Isle."
 
-He stroked his whiskers thoughtfully.
+Silence fell over their table, a bubble of quiet in the noisy tavern. "Greatwood," Huckleberry said slowly. "The ancient forest. If there are mythical creatures anywhere in the Four Isles, they'd certainly be drawn to a place like that."
 
-"The Four Isles are vast. We can't simply wander hoping to stumble upon petrified mythical creatures."
-
-Clover had been unusually quiet, staring into her cup. Now she looked up, her ears flat against her head.
-
-"I saw something. Yesterday. When we freed the kelpie."
-
-The others turned to her.
-
-"I didn't want to worry anyone—we were all so happy about bringing the songs back. But when we were on the cliff road, heading back to town…" She paused, choosing her words carefully.
-
-"I saw a shadow. Like what everyone keeps describing. High up, circling. It had wings."
-
-Alder's paw moved instinctively toward his sword.
-
-"The dragon?"
-
-"Maybe. I don't know. But it was big. Really big. And it was flying east, toward the horizon."
-
-Clover met their eyes.
-
-"Toward Greatwood Isle."
-
-Silence fell over their table, a bubble of quiet in the noisy tavern.
-
-"Greatwood," Huckleberry said slowly.
-
-"The ancient forest. If there are mythical creatures anywhere in the Four Isles, they'd certainly be drawn to a place like that."
-
-Hazel felt a flutter of nervousness in her chest. After everything they'd been through at the Crying Rocks, she'd hoped for at least a day to rest. But the kelpie's warning echoed in her mind: There are others. Find them. Free them.
+Hazel felt a flutter of nervousness in her chest. After everything they'd been through at the Crying Rocks, she'd hoped for at least a day to rest. But the kelpie's warning echoed in her mind. *There are others. Find them. Free them.*
 
 "Then that's where we go," she said, trying to sound braver than she felt.
 
-"Agreed," Alder said firmly.
+"Agreed," Alder said firmly. "If this shadow—this dragon, if dragon it may be—headed toward the Greatwood, that's where we need to be."
 
-"If this shadow—this dragon, if dragon it may be—headed toward the Greatwood, that's where we need to be."
+"We'll need a ship," Clover said.
 
-"We'll need a ship," Clover said. "Well we know a captain!" Alder said with a small smile. Captain Maren was loading cargo onto the Silver Fin when they found her an hour later. The red fox looked up from her work, surprise flickering across her face.
+"Captain Maren," Alder said. "She told us her ship would sail with yesterday morning's tide. She ought to be at sea by now."
 
-"Back at it already? I thought you'd be resting after yesterday's heroics."
+"Then we'll need another captain," Huckleberry said. "Come on—the eastern docks first, to be sure."
+
+They left the tavern and walked the waterfront, asking at two berths where skippers shook their heads: no room, wrong course, not today. An otter coiling rope jerked his chin toward the next slip. "Try the Silver Fin. Fox captain—thought she'd sailed already, but they're still loadin'."
+
+The Silver Fin was still tied fast. Crates went up the gangplank while sailors hauled to a work song that actually held together for once. Captain Maren stood amidships, sleeves rolled up, calling the count. She looked up as they came along the plank and surprise flickered across her face.
+
+"You lot again? I thought you'd be sleeping off yesterday."
+
+"We thought *you'd* be gone," Alder said.
+
+She wiped her paws on a rag, looking almost embarrassed. "Missed it. Half my crew couldn't keep a work song going long enough to haul a single crate—we were a day behind before the songs came back. We've only just caught up."
 
 "We need passage to Greatwood Isle," Huckleberry said. "As soon as possible."
 
