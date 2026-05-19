@@ -62,7 +62,7 @@ They left the village behind and continued up the road through bramblewood for w
 
 "Tell us about yourself, Hazel," Alder said as they walked. "How long have you been singing?" His voice brought comfort merely by breaking the silence.
 
-"As long as I can remember," Hazel said quietly. "My grandmother raised me. She always said I could sing before I could talk. She taught me everything—how to hold the lute, how to read melody runes, how to put my heart into every word."
+"As long as I can remember," Hazel said quietly. "My grandmother raised me. She always said I could sing before I could talk. She taught me everything—how to hold the lute, how to read melody staves, how to put my heart into every word."
 
 "She must have been a wonderful teacher," Huckleberry said. 
 

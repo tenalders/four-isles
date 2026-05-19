@@ -84,7 +84,7 @@ Clover gasped.
 
 "And there! And there! They're everywhere!"
 
-She was right. All around the chamber, glowing runes appeared—magical symbols and melody notes intertwined, invisible in the light but shining in the darkness. They covered the pillars, ran along the floor, spiraled up the walls. The entire hall was a message, written in luminescent stone.
+She was right. All around the chamber, glowing runes appeared—magical symbols and melody staves intertwined, invisible in the light but shining in the darkness. They covered the pillars, ran along the floor, spiraled up the walls. The entire hall was a message, written in luminescent stone.
 
 "Phosphorescent minerals," Huckleberry said softly, his voice full of wonder.
 
@@ -98,7 +98,7 @@ Huckleberry moved carefully through the darkness, reading by the glow of the run
 
 "The magical runes are here… and here… The pattern is complex. Very complex."
 
-Hazel found the melody runes on the large boulder in the center, glowing softly across its smooth surface. She studied them carefully, humming the notes to herself.
+Hazel found the melody staves on the large boulder in the center, glowing softly across its smooth surface. She studied them carefully, humming the notes to herself.
 
 "This melody is different too," she said. "It's a reel—steady and driving, with even beats. Like the rhythm of hammers on stone, or footsteps marching through a tunnel. It has weight to it."
 
