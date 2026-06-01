@@ -101,6 +101,23 @@ def main() -> None:
         else:
             print(f"Cover not found (continuing without): {cover_path}", file=sys.stderr)
 
+    # Load front matter (acknowledgments, etc.) before chapters
+    front_matter_docs: list[epub.EpubHtml] = []
+    ack_path = chapters_dir / "acknowledgments.md"
+    if ack_path.is_file():
+        raw = ack_path.read_text(encoding="utf-8")
+        fragment = render_markdown(raw)
+        title = chapter_title_from_md(raw, "Acknowledgments")
+        doc = epub.EpubHtml(
+            title=title,
+            file_name="text/acknowledgments.xhtml",
+            lang=args.lang,
+        )
+        doc.content = fragment.encode("utf-8")
+        doc.add_link(href="book.css", rel="stylesheet", type="text/css")
+        book.add_item(doc)
+        front_matter_docs.append(doc)
+
     chapter_docs: list[epub.EpubHtml] = []
     for i, path in enumerate(paths, start=1):
         raw = path.read_text(encoding="utf-8")
@@ -117,12 +134,14 @@ def main() -> None:
         book.add_item(doc)
         chapter_docs.append(doc)
 
-    book.toc = tuple(chapter_docs)
+    # Build TOC: front matter + chapters
+    book.toc = tuple(front_matter_docs + chapter_docs)
 
     spine: list = []
     if not args.no_cover and args.cover.resolve().is_file():
         spine.append("cover")
     spine.append(nav)
+    spine.extend(front_matter_docs)
     spine.extend(chapter_docs)
     book.spine = spine
 

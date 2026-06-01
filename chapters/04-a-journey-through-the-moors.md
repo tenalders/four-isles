@@ -28,19 +28,19 @@ Huckleberry settled his pack more comfortably on his shoulders, his staff tappin
 
 "As real as you or me," Huckleberry said. "Though she'd probably say we're all a bit magical, if we'd only pay attention." He continued, "And in the far north, the land rises into snowy peaks and old mining caverns. It's beautiful, but harsh." He pointed to the distance with the tip of his staff. "If you look you can see the purple mountain peaks rising up. Beyond them stretches the North Sea."
 
-They walked all morning, stopping only once to share some bread and cheese by a still stream. Hazel dipped her paws in the cold water, washing her face. Even the stream seemed too quiet—she remembered waters that seemed to gurgle and laugh. By afternoon, they'd reached the narrowest point between the two isles. Before them stood a great wooden bridge, ancient and weathered but still sturdy. Its timbers were carved with intricate patterns—swirling spirals and knotwork that reminded Hazel of the designs in her grandmother's old songbooks.
+They walked all morning, stopping only once to share some bread and cheese by a still stream. Hazel dipped her paws in the cold water, washing her face. The stream was quiet—she again remembered waters that once seemed to gurgle and laugh. 
 
-"Ahh yes, here it is at last. The Vestrbrudge," Huckleberry said, pausing to look at it. "The Bridge to the West, built hundreds of years ago, before even cats as old as me roamed!" 
+* * *
+
+By afternoon, they'd reached the narrowest point between the two isles. Before them stood a great wooden bridge, ancient and weathered, but still sturdy. Its timbers were carved with intricate patterns—swirling spirals and knotwork that reminded Hazel of the designs in her grandmother's old songbooks. "Ahh yes, here it is at last. The Vestrbrudge," Huckleberry said, pausing to look at it. "The Bridge to the West, built countless years ago, and ever rebuilt. Some say it's been here longer than we've walked on our hind legs!" 
 
 At the bridge's entrance stood a tall stone marker, halfcovered in lichen and moss. Carved deeply into its surface were the words: "West-Moor-Lands" on one side, and when they passed it and looked back, "Isle of the Deer" on the other.
 
 "I've never been so far from home before," Hazel said. "This is my first time leaving my isle." Their footsteps echoed on the wooden planks as they crossed the massive bridge, stretching far across the channel. Below them, the narrow strip of seawater stood still, dark and deep. Hazel kept close to Alder, trying not to look down at the dizzying drop. 
 
-* * *
-
 When they finally reached the far side of the long bridge, the landscape opened before them, vast and misty. The moors stretched out in every direction—endless rolling hills covered in blooming heather, with strange rock formations jutting up like ancient guardians.
 
-"Stay close," Huckleberry warned. "The path isn't always clear, and the mists can be deceiving."
+"Stay close," Huckleberry warned. "The path isn't always clear, and the mists can be... deceiving."
 
 They walked single file—Alder in front with his hand ready on his sword, Hazel in the middle clutching her lute, and Huckleberry at the rear, his staff tapping a steady rhythm on the ground. The moors were beautiful in a wild, lonely way. The mist came and went, revealing and hiding the landscape in turns. Sometimes Hazel could see for miles, other times she could barely see Alder's armored back just ahead of her.
 
@@ -60,15 +60,13 @@ As afternoon faded to evening, Hazel continued her story, a passionate retelling
 
 "Did you hear that?"
 
-"Hear what?" Hazel whispered. "A deep noise. Whoosh! Like the wings of a great bird many times the size of any I've ever met. Listen…."
+"Hear what?" Hazel whispered. "A deep noise. Whoosh! Like the wings of a great bird, many times the size of any I've ever met. Listen…."
 
 Quiet now, they all heard it this time. Whoosh. The looked to the sky, where the sun shone through a parting in the low clouds. Seeing nothing, the all looked at each other. Alder looked serious, and Huckleberry's fur stood up. He sensed danger. In the moment, the world around them darkened, briefly. They looked up to see something flying high above the clouds, momentarily blocking out the sun's light. Hazel gulped.
 
 "Maybe… maybe just another cloud?"
 
-Huckleberry's whiskers twitched nervously.
-
-"Perhaps. But keep your eyes open, your hands ready. Something about that shadow…" He trailed off, troubled. They pressed on, and just as the sun was touching the horizon, they crested a hill and saw it: Port Town, spread out below them. Lanterns were beginning to light in windows, and the harbor was full of ships with colorful sails. Even from this distance, they could see all manner of animals moving about on the docks.
+Huckleberry's whiskers twitched nervously. "Perhaps. But keep your eyes open, your hands ready. Something about that shadow…" He trailed off, troubled. They pressed on, and just as the sun was touching the horizon, they crested a hill and saw it: Port Town, spread out below them. Lanterns were beginning to light in windows, and the harbor was full of ships with colorful sails. Even from this distance, they could see all manner of animals moving about on the docks.
 
 "We made it," Alder said with satisfaction.
 

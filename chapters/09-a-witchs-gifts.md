@@ -2,7 +2,7 @@
 
 Clover swayed slightly, and Alder steadied her with a gentle paw. "Come on," Alder said. "Let's get you to a healer."
 
-"We need to get back to the West-Moor-Lands anyway," Huckleberry said, his expression thoughtful. "And I know just the one. Fionnula—she's a healing witch who lives on the edge of the moors. An old friend. She'll be able to mend Clover's arm properly."
+"We need to get back to the West-Moor-Lands anyway," Huckleberry said, his expression thoughtful. "And I know a healer as skilled as any. Fionnula—she's a witch who lives on the edge of the Moors. An old friend. She'll be able to mend Clover's arm properly."
 
 "How far?" Clover asked, wincing.
 

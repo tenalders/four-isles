@@ -114,165 +114,82 @@ Hazel closed her eyes and let the melody guide her. The notes wanted to wander, 
 
 Hazel nodded and started playing the melody. It felt strange, letting the notes float and wander without a steady beat. But as she played, she began to understand—this was how air moved. Unpredictable. Unbounded. Free. Then, softly, she began to sing: 
 
-*High above the world so small
-Where the wind is all in all
-Spread your wings and touch the sky
-This is what it means to fly*
+*On the high lonely cliff where the eagle takes wing
+And the wind has a name and the stone learns to sing
+There a hunter went sailing, gold-feathered and free,
+On the white edge of morning, where none could see*
 
-The words came from the melody itself, from imagining what the griffin must have felt. She sang about freedom and movement, about riding the wind, about the joy of soaring through open sky.
-
-"Feel the wind beneath your wings, Hear the song the tempest sings, Through the clouds, through sun and storm, This is freedom's truest form."
-
-She sang a lament about what it meant to lose that freedom— to be frozen mid-leap, wings spread but unable to soar. And about the hope that someone would find the message and bring the songs back.
-
-"Wake, great one, and know the sky, Remember how it feels to fly, The wind awaits, the clouds move past, Spread your wings— be free at last!"
+The words came from the melody itself, from imagining what the griffin must have felt. She continued to sing about freedom and movement, about riding the wind, about the joy of soaring through open sky.A lament about what it meant to lose that freedom— to be frozen mid-leap, wings spread but unable to soar. And about the hope that someone would find the message and bring the songs back.
 
 As she sang, Huckleberry raised his staff. The light blazed even brighter than it had with the kelpie—perhaps because the magic here was more desperate, more fragmented. The magical runes along the cliff face began to glow, one by one, like stars appearing at dusk.
 
-"Keep singing!" Huckleberry shouted. Hazel sang louder, pouring everything into the song. The melody staves burned with golden light. Threads of magic wove between them all, between the symbols, between the sound and the sky. The light became blinding. The air whipped around them, howling. Not from the crumbling cliff—this was something else. The wind itself was responding to the song, swirling around the frozen griffin in a powerful updraft. And then, with a sound like thunder, the griffin moved. Color flooded back—gray stone becoming golden feathers, becoming tawny fur, becoming gloriously, magnificently alive. Eagle eyes opened, sharp and golden. Its tail lashed. The great wings stretched, then beat once, powerfully, sending dust and debris flying. The griffin threw back its head and screamed—a sound that was part eagle's cry, part lion's roar, and part song altogether more ancient and magical. And across the forest, life answered. Hazel could hear it—tentative at first, then growing stronger. The air filled with music that had been silent for too long. The wind in the trees, the leaves rustling. The griffin settled its wings and looked down at them, its gaze intense and knowing.
+"Keep singing!" Huckleberry shouted. Hazel sang louder, pouring everything into the song. 
 
-"You freed me," it said, its voice like wind through canyons.
+The melody staves burned with golden light. Threads of magic wove between them all, between the symbols, between the sound and the sky. The light became blinding. The air whipped around them, howling. Not from the crumbling cliff—this was something else. The wind itself was responding to the song, swirling around the frozen griffin in a powerful updraft. 
 
-"You found my scattered message and made it whole again."
+*He stood where the morning had once been his own
+With his wings turned to weather, and weather to stone
+And he held the last note like a coal in his eye —
+On the high white wind, on the edge of a cry*
 
-"You made it as easy as you could," Hazel said. "The magic to read the high runes—that was clever."
+And then, with a sound like thunder, the griffin moved. Color flooded back—gray stone becoming golden feathers, becoming tawny fur, becoming gloriously, magnificently alive. Eagle eyes opened, sharp and golden. Its tail lashed. The great wings stretched, then beat once, powerfully, sending dust and debris flying. The griffin threw back its head and screamed—a sound that was part eagle's cry, part lion's roar, and part song altogether more ancient and magical. And across the forest, life answered. Hazel could hear it—tentative at first, then growing stronger. The air filled with music that had been silent for too long. The wind in the trees, the leaves rustling. The griffin settled its wings and looked down at them, its gaze intense and knowing.
 
-"Necessary," the griffin corrected. "I was running out of time as the stone took hold. I could only carve the complete melody in the one place I could still reach—high up, where I was trying to escape."
+"You freed me," it said, her voice like wind through canyons. "You found my scattered message and made it whole again."
 
-It dipped its great head toward her.
+"You made it as easy as you could," Huckleberry said. "The magic to read the high notes—that was clever in a pinch."
 
-"But you solved it. You wrote new life into my ancient melody."
+It dipped its great head toward Hazel.
 
-The griffin's gaze shifted to Clover, who was still sitting on the ground, her arm held carefully.
-
-"But one of you is injured. I can see it."
+"You did it. You wrote new life into my ancient melody." The griffin's gaze shifted to Clover, who was still sitting on the ground, her arm held carefully. "But one of you is injured. I can see it."
 
 "It's nothing," Clover said quickly.
 
-"It's not nothing," Alder said. "She fell trying to reach your runes. The cliff gave way."
+"It's not nothing," Alder said. "She fell trying to reach the staves up high. The cliff gave way."
 
-The griffin's expression grew somber.
+The griffin's expression grew somber. "I am sorry. The dragon's attack weakened the stone. I should have—" It stopped, shaking its head. "But that is past. You need healing, young ranger."
 
-"I am sorry. The dragon's attack weakened the stone. I should have—" It stopped, shaking its head.
+"We'll manage," Huckleberry said. "Though it will slow our journey." Then his attention shifted. "The dragon," he paused a beat. "Can you tell us about it? Where it lairs?"
 
-"But that is past. You need healing, young ranger."
+The griffin's eyes darkened. "Ancient. Powerful. I saw it from miles away, a shadow crossing the sun. I've hunted these skies for three hundred years, and I've never seen anything so large." The creature's talons dug into the earth. "It came from the north. From the Lost Isle. That's where it lairs."
 
-"We'll manage," Huckleberry said. "Though it will slow our journey."
+"The Lost Isle?" Clover asked, trying to hide her wince of pain. "The Mountain of Fire? I thought that was just legend."
 
-"The dragon," Huckleberry stepped forward.
-
-"Can you tell us about it? Where it lairs?"
-
-The griffin's eyes darkened.
-
-"Ancient. Powerful. I saw it from miles away, a shadow crossing the sun. I've hunted these skies for three hundred years, and I've never seen anything so large."
-
-The creature's talons dug into the earth.
-
-"It came from the north. From the Lost Isle. That's where it lairs."
-
-"The Lost Isle?" Clover asked, trying to hide her wince of pain.
-
-"The Mountain of Fire? I thought that was just legend."
-
-"It's real," the griffin said grimly.
-
-"I've flown over it myself, though never close enough to see clearly through the smoke and ash. The dragon has made its home in the heart of the mountain, centuries ago. Before even I came into this world."
+"It's real," the griffin said grimly. "I've flown over it myself, though never close enough to see clearly through the smoke and ash. The dragon has made its home in the heart of the mountain, centuries ago. Before even I came into this world."
 
 "Then that's where we need to go," Alder said firmly.
 
-"It's not so simple."
+"It's not so simple." The griffin settled its wings, the feathers rustling. "The Lost Isle is… difficult to reach. The seas around it are treacherous, and the air above it burns with heat and ash. Many have tried to find it and failed. Its peak would be visible, in fact, from the Isle of the Deer, but the dragon's spells keep it ever shrouded in mist and smoke and ash. It hides in plain sight."
 
-The griffin settled its wings, the feathers rustling.
+"But you've been there," Hazel said.
 
-"The Lost Isle is… difficult to reach. The seas around it are treacherous, and the air above it burns with heat and ash. Many have tried to find it and failed. Its peak would be visible, in fact, from the Isle of the Deer, but the dragon's spells keep it ever shrouded in mist and smoke and ash. It hides in plain sight."
+"I flew over it once, centuries ago, when I was younger and more foolish. I barely escaped with my feathers intact." The griffin looked at each of them. "One does not simply walk into the dragon's lair. You'll need guidance. Knowledge."
 
-"But you've been there," Hazel said. "I flew over it once, centuries ago, when I was younger and more foolish. I barely escaped with my feathers intact."
+"But you know how to get there?" Huckleberry asked. 
 
-The griffin looked at each of them.
+The griffin was quiet for a moment, thinking. "I do, from the air, as memory allows. But the dragon will certainly not let me or anyone else land on his mountain so easily. But I know someone who might have an idea of how to get you there." It lifted its head, gazing north. "In the snowy peaks of the West-Moor-Lands, deep in the old mine caverns, lives a troll. Grimrok. He and I are… old friends, in our way. We've shared many conversations over the years."
 
-"You cannot simply sail there and walk up to the dragon's lair. You'll need guidance. Knowledge."
+"A troll?" Alder's paw moved instinctively to his sword. 
 
-"But you know how to get there?" Huckleberry asked. The griffin was quiet for a moment, thinking.
+"Not the brutish kind from children's tales," the griffin said with what might have been amusement. "Grimrok is ancient. Wise. He knows the old paths, the hidden ways between the isles. If anyone knows how to reach the Lost Isle safely, it would be him."
 
-"I do, from the air, as memory allows. But the dragon will certainly not let me or anyone else land on his mountain so easily. But I know someone who might have an idea of how to get you there."
+"Those are my home mountains," Clover said, her voice thoughtful despite her pain. "I know the territory."
 
-It lifted its head, gazing north.
+The griffin nodded to the rabbit. "Then you must know of the mines. Grimrok dwells deep in its caverns. Tell him I sent you. Tell him the sky remembers its debts." The griffin's gaze grew distant. "He'll understand."
 
-"In the snowy peaks of the West-Moor-Lands, deep in the old mine caverns, lives a troll. Grimrok. He and I are… old friends, in our way. We've shared many conversations over the years."
+"Will he help us?" Hazel asked. 
 
-"A troll?"
+"If I know Grimrok—and I think I do—he's already felt the silence in the stones, just as I felt it in the wind. It's possible that hiding so deep in the caves kept him safe from the dragon's petrification, but it's hard to know for certain. But the underground world is one of mystery, especially to a sky dweller like me. But a troll like Grimrok, who loves the deep earth songs, the mining reels, the ancient thumping rhythms…" The griffin's talons flexed. "He'll want them back."
 
-Alder's paw moved instinctively to his sword.
+"Will we find him to also be petrified?" Huckleberry asked softly, avoiding sounding insensitive.
 
-"Not the brutish kind from old stories," the griffin said with what might have been amusement.
-
-"Grimrok is ancient. Wise. He knows the old paths, the hidden ways between the isles. If anyone knows how to reach the Lost Isle safely, it would be him."
-
-"Those are my home mountains," Clover said, her voice thoughtful despite her pain.
-
-"I know the territory."
-
-"Then you must know of the mines."
-
-The griffin nodded to the rabbit.
-
-"Grimrok dwells deep in its caverns. Tell him I sent you. Tell him the sky remembers its debts."
-
-The griffin's gaze grew distant.
-
-"He'll understand."
-
-"Will he help us?" Hazel asked. "If I know Grimrok—and I think I do—he's already felt the silence in the stones, just as I felt it in the wind. It's possible that hiding so deep in the caves kept him safe from the dragon's petrification, but it's hard to know for certain. But the underground world is one of mystery, especially to a sky dweller like me. The dragon is hoarding songs, stealing the old magic. A troll like Grimrok, who loves the deep earth songs, the mining reels, the ancient thumping rhythms…" The griffin's talons flexed.
-
-"He'll want them back. And the dragon has likely taken him too."
-
-"Another creature turned to stone," Huckleberry said softly.
-
-"Very likely."
-
-The griffin spread its wings, preparing for flight.
-
-"But beware. The dragon will know what you've done here today. It will know its hoard of the songs is being diminished."
-
-Its gaze returned to Clover.
-
-"I am sorry for your injury, young ranger. I wish I could have warned you about the unstable stone. Seek healing before you continue your quest."
+"Very likely." The griffin spread its wings, preparing for flight. "But beware. The dragon will know what you've done here today. It will know its hoard of the songs is being diminished." Its gaze returned to Clover. "I am sorry for your injury, young ranger. I wish I could have warned you about the instability ofthe stones. Seek healing before you continue your quest."
 
 "We will," Alder promised, helping Clover to her feet.
 
-"Brave knight, you must."
-
-The griffin almost smiled.
-
-"But the songs are returning, thanks to your efforts. Listen!"
+"Brave knight, you must." The griffin almost smiled. "But the songs are returning, thanks to your efforts. Listen!"
 
 They did listen. All around them, the forest was waking. Crickets hummed their warm songs. Wind whispered through the trees—she could hear it now, actually hear it, as if the air itself had found its voice.
 
-"Thank you," the griffin said, its voice softer now.
+"Thank you," the griffin said, its voice softer now. "Thank you for giving me back the sky."
 
-"Thank you for giving me back the sky."
-
-It crouched, then launched itself upward in one powerful leap. Its wings caught the wind, and it soared up through the canopy, climbing higher and higher until it was just a golden speck against the clouds. The four friends stood in silence for a moment, watching it disappear. Clover swayed slightly, and Alder steadied her with a gentle paw.
-
-"Come on," Alder said. "Let's get you to a healer."
-
-"We need to get back to the West-Moor-Lands anyway," Huckleberry said, his expression thoughtful.
-
-"And I know just the one. Fionnula—she's a healing witch who lives on the edge of the moors. An old friend. She'll be able to mend Clover's arm properly."
-
-"How far?" Clover asked, wincing.
-
-"From Port Town, half a day's journey inland," Huckleberry said. "We'll take Captain Maren's ship back across the sea, then head straight to Fionnula's cottage. Once you're healed, we can continue north to the mines."
-
-"To find a troll in the mountains," Clover said, managing a smile despite her pain.
-
-"The north is my territory. I know those mountains, and I've heard many stories about the old mines. Once my arm is healed, I can help us find him."
-
-Hazel looked down at her lute, at her paws that had just written another song. Two songs now ripe with magic. Two mythic beasts freed. She felt different than she had after the kelpie— more confident, somehow. More certain of what she could do, and what she had to do.
-
-"Then let's go," she said, moving to Clover's other side to help support her.
-
-"A healer is waiting. Then a troll. And after him, the Lost Isle. And the dragon."
-
-They started back down the path through the broken forest, moving more slowly now to accommodate Clover's injury. But the silence wasn't oppressive anymore. Now they could hear wind in the branches and birds singing to each other across the sky. The world was a little less quiet than it had been the day before.
+It crouched, then launched itself upward in one powerful leap. Its wings caught the wind, and it soared up through the canopy, climbing higher and higher until it was just a golden speck against the clouds. The four friends stood in silence for a moment, watching it disappear. 

@@ -10,7 +10,7 @@ Then the wind changed.
 
 It happened so suddenly that the kelpie lifted her head, nostrils flaring. The breeze that had been mild and salty went cold. Bitter cold, the kind of chill that had no place in autumn. The song vanished in her throat.
 
-Something was wrong. She turned, scanning the horizon. The sea stretched out before her, endless and gray. The sun was sinking lower, touching the edge of the world. Everything looked normal. But the feeling wouldn't leave her. The water around her hooves had gone far still. The waves had stopped their gentle lapping against the rocks. Even the tide pools lay flat as glass. The kelpie's ears swiveled back.
+Something was wrong. She turned, scanning the horizon. The sea stretched out before her, endless and gray. The sun was sinking lower, touching the edge of the world. Everything looked normal. But the feeling wouldn't leave her. The water around her hooves had gone still. The waves had stopped their gentle lapping against the rocks. Even the tide pools lay flat as glass. The kelpie's ears swiveled back.
 
 Something was behind her. She spun around. The sky had gone dark. But it wasn't night—the sun was still there, a thin rim of gold at the horizon. Something else had blocked out the light. A shadow. Enormous. Vast. Moving across the sky like a storm cloud, but no storm had ever moved like that. The kelpie heard the sound of wind—not the natural wind of the sea, but something else. Something powerful.
 

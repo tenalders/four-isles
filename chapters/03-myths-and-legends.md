@@ -4,9 +4,9 @@ The inside of the castle was even more magnificent than Hazel had imagined. Tall
 
 "Sir Alder! Thank goodness you've arrived. The Queen is waiting in the great hall. Follow me, please."
 
-They walked through corridor after corridor, their footsteps echoing on the stone floors. Hazel tried not to gawk at everything, but it was hard. She'd never seen anything so grand. Finally, they reached a massive wooden door carved with images of deer standing beneath a starry sky. The mouse pushed it open, and they stepped inside. The great hall was enormous. A long table filled the center of the room, surrounded by animals of all kinds—foxes in scholarly robes, owls with spectacles, a beaver holding rolled-up maps.
+They walked through corridor after corridor, their footsteps echoing on the stone floors. Hazel tried not to gawk at everything, but it was hard. She'd never seen anything so grand. Finally, they reached a massive wooden door carved with images of deer standing beneath a starry sky. The mouse pushed it open, and they stepped inside. 
 
-At the far end of the table, on a carved wooden throne, sat the Queen. She was a magnificent white deer with a crown of silver resting on her head. Her eyes were kind but tired, and when she saw them enter, she stood gracefully. 
+The great hall was enormous. A long table filled the center of the room, surrounded by animals of all kinds—foxes in scholarly robes, owls with spectacles, a beaver holding rolled-up maps. At the far end of the table, on a carved wooden throne, sat the Queen. She was a magnificent white deer with a crown of silver resting on her head. Her eyes were kind but tired, and when she saw them enter, she stood gracefully. 
 
 "Sir Alder," she said, her voice clear and strong. "And Huckleberry. I see you've brought a young bard?"
 
@@ -28,7 +28,7 @@ A murmur ran through the room. The Queen raised a hoof for silence. "You were no
 
 "I've tried everything, Your Majesty," the raven croaked. "Every song I ever knew—the old ballads, the sleeping songs, even the simple children's rhymes. All gone."
 
-"It's happening across all of the Isles," said a scholarly fox, adjusting her spectacles.
+"It's happening across all of the Isles," said a scholarly fox, adjusting her glasses.
 
 "We've had reports from messengers who flew through the night. Every bard, every musician, every creature who knew the old songs—they've all forgotten."
 
@@ -50,9 +50,7 @@ Huckleberry stepped forward, leaning on his staff. The crystal at its top glowed
 
 She gestured to a fox, who looked very learned and wise. He stepped forward with an ancient-looking book, brittle parchments barely being held together by scrappy bits of leather.
 
-"Your Majesty, if I may," the fox said, adjusting her spectacles.
-
-"The oldest legends speak of creatures who were here before any of us—mythical beings. Griffins, trolls, dryads, kelpies, basilisks, hydras, phoenixes.…the list goes on. Creatures of pure magic who sang the very first songs."
+"Your Majesty, if I may," the fox started. "The oldest legends speak of creatures who were here before any of us—mythical beings. Griffins, trolls, dryads, kelpies, basilisks, hydras, phoenixes.…the list goes on. Creatures of pure magic who sang the very first songs."
 
 "I thought those were just stories," Hazel whispered. "And there are many who believe the same," the Queen said. "And many of them may very well be just stories. But texts suggest otherwise, at least for some. Some of these creatures were real, and some may still exist, hidden away from the world. If the songs have been taken from us, these ancient beings might still remember them."
 
@@ -60,15 +58,15 @@ She gestured to a fox, who looked very learned and wise. He stepped forward with
 
 The Queen nodded slowly. "That is the challenge. They hide themselves well, sometimes in the Otherworld itself. But…" she turned to a beaver who was shuffling through papers and maps. "Barnaby, tell them what you heard."
 
-The beaver cleared his throat. "Well, Your Majesty, I've been tracking strange reports from Port Town on the southern coast of the West-Moor-Lands. Ships' captains speaking of unusual sightings near the rocks. Fishermen finding strange symbols carved in the tide pools. And one old sailor—a fox named Captain Maren—who claims to have seen something she can't explain."
+The beaver cleared his throat. "Well, Your Majesty, I've been tracking strange reports from Port Town on the southern coast of the West-Moor-Lands. Ships' captains speaking of unusual sightings near the rocks. Fishermen finding strange symbols carved in the tide pools. And one sailor—a fox named Captain Maren—who claims to have seen something she can't explain."
 
-Huckleberry's whiskers twitched with interest. "You think she might have seen one of the mythical creatures?"
+Huckleberry's whiskers twitched with interest. "You think she might have seen one of the creatures?"
 
-"It's our best lead," the Queen said. "Someone must go to Port Town and speak with her. Learn what she knows. And if there truly is a mythical creature near those shores…" she paused meaningfully, "perhaps they can help us understand what happened to the songs."
+"It's our best lead," the Queen said. "Someone must go to Port Town and speak with her. Learn what she knows. And if there truly is an ancient creature near those shores…" she paused meaningfully, "perhaps they can help us understand what happened to the songs."
 
 "But Your Majesty," Corvus the raven said quietly, "even if we find one of these creatures, why would they help us? They've stayed hidden for so long…"
 
-"Because," Huckleberry said thoughtfully, tapping his staff, "if someone has stolen the songs from the world, it affects them too. The web connects us all—even the mythical creatures. They might remember their songs, or perhaps they too have forgetten. Regardless, they will have felt this disturbance to the balance of all things."
+"Because," Huckleberry said thoughtfully, tapping his staff, "if someone has stolen the songs from the world, it affects them too. The web connects us all—even these beasts of legend. They might remember their songs, or perhaps they too have forgetten. Regardless, they will have felt this disturbance to the balance of all things."
 
 The Queen nodded. "Exactly. We're all part of the same world, bound by the same magic. If we can find them, we might find answers, and we may very well be helping them in return." She turned her gaze to Hazel, Alder, and Huckleberry. "I need brave souls willing to venture out and find these creatures. To learn what they know and bring the songs back to our world."
 
@@ -78,17 +76,17 @@ Alder stepped forward immediately. "I'll go, Your Majesty. It's my duty as a kni
 
 "And you, young bard? Will you join them on this quest? The choice is yours, but it seems fate has laid this journey before you."
 
-Hazel's mouth went dry. Her? Go on a quest to find mythical creatures? She was just a tavern performer. She wasn't brave like Alder or wise like Huckleberry. But then she thought of her grandmother. Of all the songs she'd been taught. Of the magic that had been stolen from her.
+Hazel's mouth went dry. Her? Go on a quest to find mythical beings? She was just a tavern performer. She wasn't brave like Alder or wise like Huckleberry. But then she thought of her grandmother. Of all the songs she'd been taught. Of the magic that had been stolen from her.
 
 "Yes," Hazel finally responded, surprised by the strength in her own voice. "Yes, I'll go."
 
-The Queen smiled. "Good. You may be more important to this quest than you know. The songs chose you first—there must be a reason." She gestured to the beaver and his pile of maps. "Barnaby, show them where they can find Captain Maren in Port Town."
+The Queen smiled. "Good. You may be more important to this quest than you know. The songs chose you first—there must be a reason." She gestured to the beaver and his pile of maps. "Barnaby, show them where they can find Captain Maren."
 
 Barnaby spread out a large map on the table. Hazel could see the Four Isles drawn in careful detail—the Isle of the Deer where they stood now, the Great Wood Isle to the east, the West-Moor-Lands to the west, and far to the northeast, a small island marked "The Lost Isle", surrounded by notes of warning. Barnaby began to trace a route with his paw.
 
-"Follow the western road through to the Moorlands Crossing. Be careful—the moors can be treacherous, especially without the songs. When you arrive, seek out Captain Maren at the harbor. She'll be expecting you—I'll send word by the fastest riders."
+"Follow the western road through to the Moorlands Crossing. Be careful—the Moors can be treacherous, especially without the songs. When you arrive, seek out Captain Maren at the harbor. She'll be expecting you—I'll send word by the fastest riders."
 
-"We'll provision you for the journey," the Queen said. "Food, warm cloaks, and whatever supplies you need. Find Captain Maren. Learn what she's seen. And if you can find one of the mythical creatures…" she paused, her voice full of hope, "perhaps they can help us bring some songs back home."
+"We'll provision you for the journey," the Queen said. "Food, warm cloaks, and whatever supplies you need to reach Port Town. Find Captain Maren. Learn what she's seen. And if you can find one of the lost ones…" she paused, her voice full of hope, "perhaps they can help us bring some songs back home."
 
 Alder bowed. "We'll leave at first light, Your Majesty."
 

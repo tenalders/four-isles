@@ -28,13 +28,13 @@ A squirrel brought a flute to his lips and blew. Notes came out, but when his br
 
 "Even the simple ones are gone—I can't remember anything!"
 
-Hazel sank down onto her stool, clutching her lute. The beautiful instrument felt heavy in her paws now. What good was a lute without songs to sing? What good was a bard with no word spells? The door to the tavern burst open. A young otter rushed in, out of breath.
+Hazel sank down onto her stool, clutching her lute. The beautiful instrument felt heavy in her paws now. What good was a lute without songs to sing? What good was a bard with no word spells? 
 
-"Has anyone else forgotten? All the songs in the village—they're gone!"
+The door to the tavern burst open. A young otter rushed in, out of breath."Has anyone else forgotten? All the songs in the village—they're gone!"
 
 The room erupted in worried chatter. Some animals headed for the door, wanting to return home and check on their own affairs. Others stayed, hoping someone would have an answer. Hazel barely heard any of it. She stared down at her lute, feeling emptier than she had ever felt before. Songs had always been a part of her, like breathing. How could they just disappear?
 
-Just then, a black and brown dog in shining armor gently made his way through the crowd.Beside him walked an orange cat in a wizard's cloak and pointed hat, carrying a tall wooden staff with a perfectly round crystal set in the top of its gnarled wood.
+Just then, a black and brown dog in shining armor gently made his way through the crowd. Beside him walked an orange cat in a wizard's cloak and pointed hat, carrying a tall wooden staff with a perfectly round crystal set in the top of its gnarled wood.
 
 "Everyone, please stay calm," barked the dog in a strong voice. "I am Sir Alder of the Queen's Guard, and this is my most trusted friend, Huckleberry." The cat tipped his wizard's cap as a quiet introduction. His friend made enough fanfare for the both of them. "We're going to figure out what's happening."
 
@@ -46,9 +46,7 @@ Huckleberry stepped forward, his robe billowing. "Has anyone seen anything unusu
 
 The tavern fell silent as everyone in their own time observed this. "She's right," someone whispered. "The wind always sings in autumn. But now… nothing."
 
-Huckleberry's whiskers twitched with concern.
-
-"No wind songs? Without them, the seasons won't know when to change. The trees won't know when to drop their seeds. This is more than just forgetfulness," he said quietly, tapping his staff on the floor. "Songs carry old magic. Without them, things in the world will begin forgetting how to work."
+Huckleberry's whiskers twitched with concern. "No wind songs? Without them, the seasons won't know when to change. The trees won't know when to drop their seeds. This is more than just forgetfulness," he said quietly, tapping his staff on the floor. "Songs carry old magic. Without them, things in the world will begin forgetting how to work."
 
 A worried murmur rippled through the crowd. Hazel stood up on shaky legs. She had to get out of here. Everyone was looking at her with pity, and she couldn't bear it. Clutching her lute, she hurried toward the door.
 

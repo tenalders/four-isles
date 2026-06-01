@@ -28,9 +28,7 @@ Hazel frowned, trying to understand. "But if it's woven into the world, why can'
 
 "Because something has upset the web," Huckleberry said seriously. "Something—or someone—has pulled at the threads. The songs are still out there, but we can't reach for them anymore."
 
-A faint breeze rustled through the trees, but it made no sound at all. Usually, the autumn wind sang as it moved through the branches. Now it was silent, like the world was holding its breath.
-
-"Did you notice?" Huckleberry pointed up at the trees with his staff. "The leaves should be falling. It's the season for it. But look—they're just hanging there, not knowing what to do."
+A faint breeze rustled through the trees, but it made no sound at all. Usually, the autumn wind sang as it moved through the branches. Now it was silent, like the world was holding its breath. "Did you notice?" Huckleberry pointed up at the trees with his staff. "The leaves should be falling. It's the season for it. But look—they're just hanging there, not knowing what to do."
 
 Hazel looked up. He was right. The golden and deep red leaves clung to the branches, perfectly still.
 
@@ -48,17 +46,19 @@ Hazel looked up. He was right. The golden and deep red leaves clung to the branc
 
 "Very important," Alder said with a warm smile.
 
-"Come on. It's a long walk to the castle at the foot of the mountains, but if we leave now, maybe we'll arrive before we fall asleep!"
+"Come on. It's a long walk to the castle, but if we leave now, maybe we'll arrive before we all crumple from exhaustion!"
 
 Hazel stood slowly, her legs still shaky. "Do you really think the Queen can help?"
 
 "I know she'll try," Alder said. "And you won't be alone. Huck and I will be right there with you."
 
-They started walking back through the village. The Acorn Tavern was dark now, everyone having gone home to be with their families. The streets were empty and strange. There was a deep quiet that none of them had felt before. As they passed the miller's house, Hazel could hear the water wheel groaning and creaking, eerily slow as the river settled and the winds remained silent as a stone. In the distance, someone was crying—probably a child who couldn't sleep without a lullaby.
+They started walking back through the village. The Acorn Tavern was dark now, everyone having gone home early for the night. The streets were empty and strange. There was a deep quiet that none of them had felt before. As they passed the miller's house, Hazel could hear the water wheel groaning and creaking, eerily slow as the river settled and the winds remained silent as a stone. In the distance, someone was crying—possibly a child who couldn't sleep without a lullaby.
 
-"It's getting worse already," Hazel whispered. "Which is why we must hurry," Huckleberry said, walking a bit faster "The longer the songs are gone, the more the world will forget how to work."
+"It's getting worse already," Hazel whispered. 
 
-They left the village behind and continued up the road through bramblewood for which Bramble Town was named. The path was well-worn, but in the darkness and silence, it felt unfamiliar. Usually, this forest was full of life—streams flowing, crickets fiddling, leaves rustling with their own music. Now it was as silent as a held breath.
+"Which is why we must hurry," Huckleberry said, walking a bit faster "The longer the songs are gone, the more the world will forget how to work."
+
+They left the village behind and continued up the road through the Bramblewood, for which Bramble Town was named. The path was well-worn, but in the darkness and silence, it felt unfamiliar. Usually, this forest was full of life—streams flowing, crickets fiddling, leaves rustling with their own music. Now it was as silent as a held breath.
 
 "Tell us about yourself, Hazel," Alder said as they walked. "How long have you been singing?" His voice brought comfort merely by breaking the silence.
 
@@ -70,20 +70,22 @@ They left the village behind and continued up the road through bramblewood for w
 
 "No," Huckleberry said firmly, stopping their pace to make eye contact. "She was right. The songs are still with you, Hazel. We just need to find the way back to them."
 
-She tried to believe the wizard. They walked in silence for a while, climbing hills and crossing streams. Hazel noticed that the water in the brooks wasn't babbling the way it should. Even the streams had lost their songs. As the night grew deeper, Hazel found herself getting sleepy. She stumbled over a root and nearly fell, but Alder caught her gently by the elbow.
+She tried to believe the wizard. They walked in silence for a while, climbing hills and crossing streams. Hazel noticed that the water in the brook wasn't babbling the way it should. Even the streams had lost their songs.
 
-"Not much farther now," he said encouragingly. "Look—you can see the lights of the castle."
+As the night grew deeper, Hazel found herself getting sleepy. She stumbled over a root and nearly fell, but Alder caught her gently by the elbow. "Not much farther now," he said encouragingly. "Look—you can see the lights of the castle."
 
-Hazel looked up. Through the trees ahead, she could see a warm glow. The royal castle sat on a hill in the distance, flickering windows in its turrets lit with candles and firelight, the moon illuminating the outline of the towering mountains behind it. The path began to climb upward. Hazel's paws ached, and her shoulders were tired from carrying her lute slung on her back. But the sight of the castle ahead gave her strength to keep going.
+Hazel looked up. Through the trees ahead, she could see a warm glow. The royal castle sat on a hill in the distance, flickering windows in its turrets lit with candles and firelight, the moon illuminating the outline of the towering mountains behind it.
 
-"What if she can't help?" Hazel asked quietly. "What if nobody can?"
+The path began to climb upward. Hazel's paws ached, and her shoulders were tired from carrying the lute slung on her back. But the sight of the castle ahead gave her strength to keep going. "What if she can't help?" Hazel asked quietly. "What if nobody can?"
 
 Alder put a reassuring paw on her shoulder. "Then we'll find another way. But I've known the Queen my whole life, Hazel. She's never given up on anything. She won't give up on this, especially if the whole Queendom is affected."
 
-They emerged from the bramblewood onto a wide, cobbled road. Ahead of them, the castle gates rose tall and grand, carved with images of deer and intertwined antlers and ancient trees. Two guards stood at attention, great burly elk, their armor gleaming in the torchlight.
+They emerged from the Bramblewood onto a wide, cobbled road. After some time they reached the castle gates, tall and grand, carved with images of deer and intertwined antlers and ancient trees. Two guards stood at attention, great burly elk, their armor gleaming in the torchlight.
 
 "Sir Alder!" one of the guards called out. "We've been expecting you. The Queen has summoned all her advisors." he paused for a moment, his expression growing somber. "She knows about the songs."
 
 "Then she'll want to meet young Hazel here," Alder said. "She was the first to lose them."
 
-The guards looked at Hazel with curiosity and sympathy. They pulled open the great gates, and the three travelers walked through. Hazel looked up at the towering castle walls, her heart pounding. Somewhere in there was the Queen—the wisest creature in all the Four Isles. Is she wise enough? She hoped so.
+The guards looked at Hazel with curiosity and sympathy. They pulled open the great gates, and the three travelers walked through. Hazel looked up at the towering castle walls, her heart pounding. Somewhere in there was the Queen—the wisest creature in all the Four Isles.
+
+Was she wise enough? Hazel hoped so.
